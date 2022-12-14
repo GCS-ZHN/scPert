@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## usage
 ```bash
-python -m scPert
+python -m scpert
 ```
