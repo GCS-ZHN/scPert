@@ -5,7 +5,7 @@
 [![pmid](https://img.shields.io/badge/PMID-NOT%20available-red.svg)](https://pubmed.ncbi.nlm.nih.gov/)
 ![workflow](docs/scPert.jpg)
 
-## intallment
+## installment
 scPert is developed with PyTorch. To use it, please install requirements first.
 
 ```bash
